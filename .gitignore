@@ -1,2 +1,4 @@
 *.pyc
 run.py
+config.py
+.idea
